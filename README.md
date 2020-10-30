@@ -27,12 +27,11 @@
 
 ** The included webpack.config.js file lets Webpack know the work it needs to do - ie what files to start with, what the production output will be named, and what plugins and tools to use. This can (and maybe should) be edited, but this will meet all of your basic needs if you used the command in step 5.
 
-###How to test:
+### How to test:
     - Make sure your necessary files are in the src folder!
     - Make sure your paths(links) are updated after your files have moved!
     - In your project's root folder, using the command line, type "npm start" 
     - Somewhere in your resulting code, you should see "Project is running at (localhost url) -> simply go to that http link to see your live app!
-
 
 ### Liked this repo? Let's connect!
 
