@@ -4,17 +4,16 @@
 
 ### Here are the steps you need to take:  
 
-**1)** Download this repo  
+1. Clone this repository to your local machine `git clone https://github.com/jenna-chestnut/basic-webpack-boilerplate`
+2. `cd` into the cloned repository
+3. Make a fresh start of the git history for this project with `rm -rf .git && git init`
+4. Install the node dependencies `npm install  
 
-**2)** Using the command line input the following command in the root folder of the project:  
-    - npm install   
-    // This will install everything you need to get running with Webpack!  
+To use the Webpack Dev Server, input the following command: 
+ - npm start  
 
-**3)** To use the Webpack Dev Server, input the following command: 
-    - npm start  
-
-**4)** To build your project for deployment, input the following command: 
-    - npm run build  
+To build your project for deployment, input the following command: 
+ - npm run build  
 
 ** The included .gitignore file in this repo confirms that git will NOT try to track/commit the node_modules folder that is created when using npm - it's a BIG folder, so we don't want git to commit these libraries.  
 
